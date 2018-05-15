@@ -4,6 +4,7 @@ cheese
 compton 
 conky 
 curl 
+gcolor2
 git 
 gmrun 
 gnome-terminal 
@@ -11,11 +12,13 @@ htop
 htop 
 mc 
 moc 
+mysql-workbench
 nitrogen 
 obconf
 obmenu
 obmenu 
 openbox
+openbox-themes
 qtqr 
 tint2 
 tmux 
@@ -24,4 +27,6 @@ vim
 vlc
 volti 
 wavemon 
-zenmap 
+xfce4-power-manager
+xscreensaver-command
+zenmap
