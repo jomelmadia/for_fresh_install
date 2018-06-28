@@ -1,14 +1,18 @@
 arandr 
 bmon 
 cheese 
+clipit
 compton 
 conky 
 curl 
 gcolor2
+gdebi
 git 
 gmrun 
 gnome-calculator
 gnome-terminal 
+google-chrome
+gpick
 htop
 htop 
 iftop
@@ -32,6 +36,3 @@ wavemon
 xfce4-power-manager
 xscreensaver-command
 zenmap
-gdebi
-gpick
-google-chrome
