@@ -26,8 +26,10 @@ obmenu
 openbox
 openbox-themes
 qtqr 
+ranger
 tint2 
 tmux 
+tree
 ubuntu-restricted-extras
 vim 
 vlc
@@ -36,4 +38,3 @@ wavemon
 xfce4-power-manager
 xscreensaver-command
 zenmap
-tree
