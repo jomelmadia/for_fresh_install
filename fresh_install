@@ -1,5 +1,5 @@
 arandr 
-atool 
+atool
 bmon 
 caca-utils 
 cheese 
@@ -15,12 +15,14 @@ gnome-calculator
 gnome-terminal 
 google-chrome
 gpick
+highlight
 highlight 
 htop
 htop 
 iftop
 mc 
 mediainfo
+mediainfo0
 moc 
 mysql-workbench
 nitrogen 
@@ -29,10 +31,10 @@ obmenu
 obmenu 
 openbox
 openbox-themes
+poppler-utils
 poppler-utils 
 qtqr 
 ranger
-ranger 
 tint2 
 tmux 
 tree
@@ -40,7 +42,7 @@ ubuntu-restricted-extras
 vim 
 vlc
 volti 
-w3m 
+w3m
 wavemon 
 xfce4-power-manager
 xscreensaver-command
