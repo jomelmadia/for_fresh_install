@@ -7,6 +7,7 @@ clipit
 compton 
 conky 
 curl 
+feh
 gcolor2
 gdebi
 git 
@@ -35,8 +36,10 @@ poppler-utils
 poppler-utils 
 qtqr 
 ranger
+rtv
 tint2 
 tmux 
+trash-cli
 tree
 ubuntu-restricted-extras
 vim 
