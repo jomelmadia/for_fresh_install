@@ -8,6 +8,7 @@ compton
 conky 
 curl 
 feh
+ffmpegthumbnailer
 gcolor2
 gdebi
 git 
@@ -15,6 +16,7 @@ gmrun
 gnome-calculator
 gnome-terminal 
 google-chrome
+gparted
 gpick
 highlight
 highlight 
@@ -41,7 +43,6 @@ tint2
 tmux 
 trash-cli
 tree
-ubuntu-restricted-extras
 vim 
 vlc
 volti 
