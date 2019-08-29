@@ -1,9 +1,11 @@
 arandr 
 atool
 bmon 
+build-essential
 caca-utils 
 cheese 
 clipit
+cmake 
 compton 
 conky 
 curl 
@@ -36,6 +38,7 @@ openbox
 openbox-themes
 poppler-utils
 poppler-utils 
+python3-dev
 qtqr 
 ranger
 rtv
