@@ -11,6 +11,7 @@ conky
 curl 
 feh
 ffmpegthumbnailer
+fonts-firacode
 gcolor2
 gdebi
 git 
@@ -42,6 +43,7 @@ python3-dev
 qtqr 
 ranger
 rtv
+shutter
 tint2 
 tmux 
 trash-cli
