@@ -29,6 +29,7 @@ highlight
 htop
 htop 
 iftop
+liferea
 mc 
 mediainfo
 mediainfo0
@@ -36,6 +37,7 @@ moc
 mysql-workbench
 neofetch
 nethogs
+newsboat
 nitrogen 
 nodejs
 obconf
