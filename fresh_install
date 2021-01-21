@@ -1,3 +1,4 @@
+apt-transport-https 
 arandr 
 atool
 audacity
@@ -20,6 +21,7 @@ git
 gmrun 
 gnome-calculator
 gnome-terminal 
+gnupg
 gnupg2
 google-chrome
 gparted
