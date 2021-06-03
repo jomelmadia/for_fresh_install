@@ -20,6 +20,7 @@ gedit
 git 
 gmrun 
 gnome-calculator
+gnome-screenshot
 gnome-terminal 
 gnupg
 gnupg2
@@ -32,6 +33,7 @@ htop
 htop 
 iftop
 liferea
+lxappearance
 mc 
 mediainfo
 mediainfo0
@@ -54,7 +56,9 @@ qtqr
 ranger
 rtv
 shutter
+sysfsutils
 tint2 
+transmission-gtk
 tmux 
 trash-cli
 tree
