@@ -49,6 +49,7 @@ obmenu
 obmenu 
 openbox
 openbox-themes
+peek
 poppler-utils
 poppler-utils 
 python3-dev
@@ -58,8 +59,8 @@ rtv
 shutter
 sysfsutils
 tint2 
-transmission-gtk
 tmux 
+transmission-gtk
 trash-cli
 tree
 unrar
