@@ -38,6 +38,7 @@ mediainfo0
 moc 
 mysql-workbench
 neofetch
+net-tools
 nethogs
 newsboat
 nitrogen 
@@ -48,6 +49,7 @@ obmenu
 openbox
 openbox-themes
 peek
+pm-utils
 poppler-utils
 poppler-utils 
 python3-dev
