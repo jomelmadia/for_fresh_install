@@ -3,6 +3,7 @@ apt-transport-https
 arandr 
 atool
 audacity
+birdtray
 bmon 
 build-essential
 caca-utils 
@@ -63,6 +64,7 @@ sysfsutils
 tint2 
 tmux 
 transmission-gtk
+thunderbird
 trash-cli
 tree
 unrar
