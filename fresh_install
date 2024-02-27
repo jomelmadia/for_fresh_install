@@ -58,6 +58,7 @@ poppler-utils
 python3-dev
 qtqr 
 ranger
+ripgrep
 rtv
 shutter
 sysfsutils
